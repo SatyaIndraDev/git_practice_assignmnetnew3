@@ -5,9 +5,9 @@ for(let i=2;i<num;i++)
         a=1
     }
 }
-// if(a!=0){
-//     console.log("No")
-// }
-// else{
-//     console.log("Yes")
-// }
+if(a!=0){
+    console.log("No")
+}
+else{
+    console.log("Yes")
+}
