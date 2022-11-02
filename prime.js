@@ -1,8 +1,9 @@
+function checkPrime(num){
 let a=0
 for(let i=2;i<num;i++)
 {
     if(num%i==0){
-        a=1
+        a++;
     }
 }
 if(a!=0){
@@ -10,4 +11,9 @@ if(a!=0){
 }
 else{
     console.log("Yes")
+
+
 }
+}
+checkPrime(13);
+
