@@ -11,6 +11,9 @@ if(a!=0){
 }
 else{
     console.log("Yes")
+
+
 }
 }
 checkPrime(13);
+
